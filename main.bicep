@@ -1,0 +1,1 @@
+// main.bicep - Infraestructura principal para entorno de desarrollo
